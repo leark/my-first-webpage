@@ -21,3 +21,22 @@ a {
   font-size: 80px;
   color: blue;
 }
+
+.my-class {
+  border: 2px solid green;
+  padding: 10px;
+  background-color: orange;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  width: 50%;
+}
+
+.centered-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
